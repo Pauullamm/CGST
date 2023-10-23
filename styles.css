@@ -1,0 +1,23 @@
+.BannerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.test {
+    background-color: #87CEEB;
+    height: 100px;
+    width: 500px;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+.SearchBarContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
